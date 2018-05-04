@@ -7,8 +7,6 @@ def name
   @name
 end
   def bark
-    puts "Woof!"
+    puts ("Woof!")
   end
  end
-
-snoopy.bark
